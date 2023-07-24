@@ -1,7 +1,4 @@
-// React library
 import React from 'react'
-
-// Third-party library
 import { styled } from 'styled-components'
 
 function Header() {
